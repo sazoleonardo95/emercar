@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emercar.cl/sitemap.xml
+
+# Emercar - Distribuidora de Alimentos
+# https://emercar.cl

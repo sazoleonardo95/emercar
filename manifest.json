@@ -1,0 +1,25 @@
+{
+  "name": "Emercar - Distribuidora de Alimentos",
+  "short_name": "Emercar",
+  "description": "Distribuidora mayorista y minorista de alimentos en Temuco. Granos, harinas y legumbres.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a5c1a",
+  "theme_color": "#1a5c1a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "logo emercar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo emercar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["food", "business"],
+  "lang": "es-CL",
+  "dir": "ltr"
+}
